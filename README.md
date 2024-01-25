@@ -266,3 +266,5 @@ DSA arrays revision (2024-01-06 20:00)
 
 Study log update (2024-01-11 20:00)
 
+Checklist progress (2024-01-25 20:00)
+
