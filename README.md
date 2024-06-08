@@ -286,3 +286,5 @@ Study log update (2024-04-29 20:00)
 
 Refactor + cleanup (2024-05-11 20:00)
 
+Checklist progress (2024-06-08 20:00)
+
