@@ -314,3 +314,5 @@ Daily learning log (2024-09-24 20:00)
 
 DSA arrays revision (2024-10-02 20:00)
 
+Study log update (2024-10-05 20:00)
+
