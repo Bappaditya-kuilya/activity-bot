@@ -336,3 +336,5 @@ Study log update (2024-12-20 20:00)
 
 Notes update (2025-01-09 20:00)
 
+Checklist progress (2025-01-14 20:00)
+
