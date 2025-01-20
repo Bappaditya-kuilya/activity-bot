@@ -194,3 +194,5 @@ Refactor + cleanup (2025-12-03 20:01)
 
 Checklist progress (2024-12-25 20:00)
 
+Study log update (2025-01-20 20:00)
+
