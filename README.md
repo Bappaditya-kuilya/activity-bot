@@ -350,3 +350,5 @@ Refactor + cleanup (2025-03-27 20:00)
 
 DSA practice update (2025-04-16 20:00)
 
+Checklist progress (2025-04-18 20:00)
+
