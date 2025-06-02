@@ -362,3 +362,5 @@ DSA practice update (2025-05-17 20:00)
 
 Refactor + cleanup (2025-05-23 20:00)
 
+Notes update (2025-06-02 20:00)
+
