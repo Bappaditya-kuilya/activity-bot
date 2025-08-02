@@ -374,3 +374,5 @@ Daily learning log (2025-07-24 20:00)
 
 DSA linked list practice (2025-07-25 20:00)
 
+DSA linked list practice (2025-08-02 20:00)
+
