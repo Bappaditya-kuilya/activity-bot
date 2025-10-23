@@ -248,3 +248,5 @@ DSA practice update (2025-10-01 20:00)
 
 Checklist progress (2025-10-22 20:00)
 
+DSA arrays revision (2025-10-23 20:00)
+
