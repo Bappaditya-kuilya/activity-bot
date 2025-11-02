@@ -14,3 +14,5 @@ DSA linked list practice (2025-11-02 20:00)
 
 Study log update (2025-11-02 20:01)
 
+Checklist progress (2025-11-02 20:02)
+
