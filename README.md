@@ -12,3 +12,5 @@ DSA practice update (2025-11-01 20:02)
 
 DSA linked list practice (2025-11-02 20:00)
 
+Study log update (2025-11-02 20:01)
+
