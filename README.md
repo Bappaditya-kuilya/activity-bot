@@ -26,3 +26,5 @@ DSA linked list practice (2025-11-04 20:00)
 
 DSA linked list practice (2025-11-04 20:01)
 
+Daily learning log (2025-11-04 20:02)
+
