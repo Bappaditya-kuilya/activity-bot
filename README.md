@@ -30,3 +30,5 @@ Daily learning log (2025-11-04 20:02)
 
 Refactor + cleanup (2025-11-04 20:03)
 
+DSA linked list practice (2025-11-05 20:00)
+
