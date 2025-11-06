@@ -394,3 +394,5 @@ DSA arrays revision (2025-11-02 20:00)
 
 Study log update (2025-11-04 20:00)
 
+DSA linked list practice (2025-11-06 20:00)
+
