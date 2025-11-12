@@ -70,3 +70,5 @@ DSA arrays revision (2025-11-12 20:00)
 
 Notes update (2025-11-12 20:01)
 
+DSA linked list practice (2025-11-12 20:02)
+
