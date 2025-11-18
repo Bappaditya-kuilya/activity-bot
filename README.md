@@ -98,3 +98,5 @@ Daily learning log (2025-11-16 20:01)
 
 DSA practice update (2025-11-17 20:00)
 
+Checklist progress (2025-11-18 20:00)
+
