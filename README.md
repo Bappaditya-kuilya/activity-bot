@@ -106,3 +106,5 @@ Daily learning log (2025-11-18 20:02)
 
 Daily learning log (2025-11-19 20:00)
 
+Checklist progress (2025-11-19 20:01)
+
