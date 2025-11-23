@@ -124,3 +124,5 @@ Refactor + cleanup (2025-11-21 20:03)
 
 Daily learning log (2025-11-22 20:00)
 
+Checklist progress (2025-11-23 20:00)
+
