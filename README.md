@@ -150,3 +150,5 @@ DSA practice update (2025-11-26 20:00)
 
 DSA linked list practice (2025-11-27 20:00)
 
+Checklist progress (2025-11-27 20:01)
+
